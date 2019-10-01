@@ -1,0 +1,6 @@
+C:\Users\JuanAngel\Desktop\1.Hola_Mundo\1.Hola_Mundo\bin\Debug\1.Hola_Mundo.exe.config
+C:\Users\JuanAngel\Desktop\1.Hola_Mundo\1.Hola_Mundo\bin\Debug\1.Hola_Mundo.exe
+C:\Users\JuanAngel\Desktop\1.Hola_Mundo\1.Hola_Mundo\bin\Debug\1.Hola_Mundo.pdb
+C:\Users\JuanAngel\Desktop\1.Hola_Mundo\1.Hola_Mundo\obj\Debug\1.Hola_Mundo.csprojResolveAssemblyReference.cache
+C:\Users\JuanAngel\Desktop\1.Hola_Mundo\1.Hola_Mundo\obj\Debug\1.Hola_Mundo.exe
+C:\Users\JuanAngel\Desktop\1.Hola_Mundo\1.Hola_Mundo\obj\Debug\1.Hola_Mundo.pdb
